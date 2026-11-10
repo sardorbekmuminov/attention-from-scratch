@@ -1,7 +1,7 @@
 # Attention From Scratch
 
 Transformer attention implemented step by step, first in NumPy, then as PyTorch modules.
-Built as a hands-on exercise for my machine learning course (Najot Ta'lim, lesson 64).
+Built as a hands-on exercise for my machine learning course.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sardorbekmuminov/attention-from-scratch/blob/main/notebooks/hw64_attention.ipynb)
 
